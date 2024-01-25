@@ -1,0 +1,17 @@
+body{
+    font-family: 'Saira Semi Condensed', sans-serif;
+
+}
+img{
+width: 350px;
+height: 350px;
+}
+#div{
+background-color: #447a34;
+padding: 10px;
+height: 75%;
+box-shadow: 5px 5px 30px rgb(50, 105, 71);
+}
+#h2{
+    text-shadow: 2px 2px 2px cadetblue;
+}
